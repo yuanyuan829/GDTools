@@ -1,0 +1,18 @@
+# GMD Editor 依赖项
+
+# GUI 框架
+PyQt6>=6.4.0
+
+# 图像处理
+Pillow>=9.0.0
+
+# Python 标准库 (无需安装):
+# - plistlib (plist文件处理)
+# - json (JSON数据处理)
+# - zipfile (ZIP文件处理)
+# - zlib/gzip (压缩处理)
+# - pathlib (路径处理)
+# - base64 (Base64编解码)
+
+# 安装方法:
+# pip install -r requirements.txt
